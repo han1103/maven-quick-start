@@ -6,9 +6,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
   <artifactId>maven-quick-start</artifactId>
-  <version>1.3</version>
-  
-  
+  <version>1.4</version>
+    
   <dependencies>
 	<dependency>
 		<groupId>org.apache.commons</groupId>
